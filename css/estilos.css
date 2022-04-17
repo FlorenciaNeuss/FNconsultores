@@ -1,5 +1,5 @@
 header {
-  background-image: url(https://static.vecteezy.com/system/resources/previews/000/234/606/non_2x/vector-dark-grunge-background.jpg)
+  background-image: url(https://static.vecteezy.com/system/resources/previews/000/234/606/non_2x/vector-dark-grunge-background.jpg);
 }
 
 /* menu y footer */
@@ -18,16 +18,16 @@ footer {
   color: rgb(11, 10, 11);
   background-color: rgba(194, 154, 172, 0.836);
   bottom: 0;
-  width: 100%; 
+  width: 100%;
   position: fixed;
 }
 
 /* titulos */
-h1{
-  font-family: 'Archivo', sans-serif;
+h1 {
+  font-family: "Archivo", sans-serif;
 }
-h2{
-  font-family: 'Archivo', sans-serif;
+h2 {
+  font-family: "Archivo", sans-serif;
 }
 
 /* pagina inicio */
@@ -45,22 +45,20 @@ body {
 }
 
 /* propuesta */
-.table{
+.table {
   background-color: rgba(194, 154, 172, 0.719);
 }
 
 /* nosotros */
 .imgNos {
-  transition: all 2s;
-} 
+  transition: all 3s;
+}
 .imgNos:hover {
   transform: scale(1.2);
 }
 
 /* pagina contacto */
-.form{
+.form {
   background-color: rgb(198, 195, 195);
   width: 40%;
-  }
-
-
+}
